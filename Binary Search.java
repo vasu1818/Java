@@ -1,4 +1,4 @@
-class BinarySearch
+class BnSrch
 {
 	public static void main(String args[]){
 	int array[]={11,13,14,15,16,18,19,20,21,24};
